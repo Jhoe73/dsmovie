@@ -6,7 +6,7 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <h1>DSMovie (Em manutenção, configurando servidor próprio para hospedagem da API)</h1>
+                    <h1>DSMovie</h1>
                     <a href="https://github.com/jhoe73" target="_blank" rel="noreferrer">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
